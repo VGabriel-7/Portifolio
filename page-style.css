@@ -1,0 +1,40 @@
+body{
+    background-color: #036b52;
+    font-size: 1vw;
+    text-align: center;
+}
+
+#link-trybe{
+    color: #036b52;
+    font-size: 112%;
+}
+
+#web-developer{
+    font-weight: 900;
+}
+
+#city{
+    text-decoration: none;
+}
+
+#passion{
+    font-weight: bold;
+}
+
+#picture-gabriel{
+    width: 10%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    text-align: center;
+    margin-right:49px;
+    line-height:30px;
+}
+
+a{
+    text-align: center;
+}
