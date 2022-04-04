@@ -1,7 +1,14 @@
 body{
-    background-color: #036b52;
-    font-size: 1vw;
+    margin: 0px;
     text-align: center;
+}
+
+.header{
+    background-image: url(AdobeStock_496188972_Preview.jpeg);
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 500px;
+    border: 0px;
 }
 
 #link-trybe{
@@ -29,12 +36,13 @@ body{
     margin-right: auto;
 }
 
-ul{
-    text-align: center;
-    margin-right:49px;
-    line-height:30px;
+.skills-content{
+    position: center;
+    width: 20%;
+    margin: auto;
 }
 
-a{
-    text-align: center;
+.links-internal a {
+    margin: 5px;
+    display: inline-block;
 }
